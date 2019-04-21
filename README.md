@@ -1,5 +1,5 @@
 # EDA Red Wine Quality in Machine Learning
-![image.png](utkarsh1977/EDA_ML_Red_Wine_Quality/Pictures/Red Wine.png)
+![image.png]("Red Wine.png")
 
 # img src="/Pictures/Red Wine.jpeg?raw=true" width="500" height="360"/>
 <h3 align="center"><font-size="20">Exploratory Data Analysis of Quality of Red Wine</h3></font>
